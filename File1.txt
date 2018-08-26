@@ -2,8 +2,8 @@ Hello
 
 This is first change --> develop
 
-Change 2 <-- made local change
+change 2 --> cahneg made on remote master
 
-change3
+change3 --> local develop to push on remote master
 
 change4 on local to push
